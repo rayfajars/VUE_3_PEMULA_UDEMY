@@ -6,10 +6,7 @@ jika teman-teman ingin mengikut pelatihan ini bisa mengikuti dilink ini https://
 
 berikut isi list dari pelatihan ini :
 
-Selamat datang di kursus Vu3.js 3 untuk pemula dimana kalian akan belajar konsep-konsep dasar Vue js 3 mulai dari:
-
-Bagaimana Instansiasi Vue 3
-
+- Bagaimana Instansiasi Vue 3
 - Direktif dan binding
 - Interaksi pengguna
 - Penggunaan method
